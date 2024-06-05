@@ -18,6 +18,7 @@ builder.Services.AddDbContext<ApplicationDBContext>(option =>{
     option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
+//interface ekleyip depedency injection olayı için addscoped yazıldı.
 builder.Services.AddScoped<IStockRepository, StockRepository>();
 
 var app = builder.Build();
