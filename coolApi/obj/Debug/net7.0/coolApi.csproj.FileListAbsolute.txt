@@ -150,3 +150,4 @@ C:\Users\ADMIN\Desktop\Çalışmalar\frontendGG\coolApi\obj\Debug\net7.0\refint\
 C:\Users\ADMIN\Desktop\Çalışmalar\frontendGG\coolApi\obj\Debug\net7.0\coolApi.pdb
 C:\Users\ADMIN\Desktop\Çalışmalar\frontendGG\coolApi\obj\Debug\net7.0\coolApi.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\Çalışmalar\frontendGG\coolApi\obj\Debug\net7.0\ref\coolApi.dll
+C:\Users\ADMIN\Desktop\Çalışmalar\frontendGG\coolApi\bin\Debug\net7.0\Newtonsoft.Json.dll

@@ -20,6 +20,7 @@ builder.Services.AddDbContext<ApplicationDBContext>(option =>{
 
 //interface ekleyip depedency injection olayı için addscoped yazıldı.
 builder.Services.AddScoped<IStockRepository, StockRepository>();
+builder.Services.AddScoped<ICommentRepository, CommentRepositoty>();
 
 var app = builder.Build();
 
